@@ -1,6 +1,7 @@
 module github.com/darjun/simplebank
 
 go 1.25.3
+toolchain go1.25.3
 
 require (
 	github.com/lib/pq v1.10.9
